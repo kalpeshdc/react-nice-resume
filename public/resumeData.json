@@ -7,15 +7,15 @@
     "contactmessage": "Let's make something awesome together!",
     "email": "chaudharikalpesh55@gmail.com",
     "phone": "+91-940-442-0049",
-    "github": "https://github.com/thekalpesh7",
-    "project": "https://github.com/thekalpesh7?tab=repositories",
+    "github": "https://github.com/kalpeshdc",
+    "project": "https://github.com/kalpeshdc?tab=repositories",
     "address": {
       "city": "Pune",
       "state": "Maharashtra, India",
       "zip": "411 045"
     },
     "website": "https://kalpesh7.xyz",
-    "resumedownload": "https://raw.githubusercontent.com/thekalpesh7/react-nice-resume/master/docs/resume.pdf",
+    "resumedownload": "https://raw.githubusercontent.com/kalpeshdc/react-nice-resume/master/docs/resume.pdf",
     "social": [
       {
         "name": "Stack Overflow",
@@ -34,7 +34,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/thekalpesh7",
+        "url": "https://github.com/kalpeshdc",
         "className": "fa fa-github"
       }
     ]
